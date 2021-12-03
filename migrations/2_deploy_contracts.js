@@ -1,5 +1,5 @@
-var SimpleStorage = artifacts.require("./SimpleStorage.sol");
+var Factory = artifacts.require("./MWSwapFactory.sol");
 
-module.exports = function(deployer) {
-  deployer.deploy(SimpleStorage);
+module.exports = async function(deployer, network, addresses) {
+  await deployer.deploy(Factory,addresses[0]);
 };
