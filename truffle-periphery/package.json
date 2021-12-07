@@ -4,6 +4,7 @@
     "@openzeppelin/test-helpers": "^0.5.15",
     "@uniswap/lib": "^4.0.1-alpha",
     "@uniswap/v2-core": "^1.0.1",
+    "ethers": "^4.0.49",
     "web3": "^1.6.1"
   }
 }
