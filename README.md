@@ -1,7 +1,10 @@
 CONTRIBUTORS
+
 https://github.com/nobodyw (Michael W.)
+
 https://github.com/Damwazo (Damien G.)
 
+-------------------------------
 Installation 
 
 Modifier le truffle-cli: port
@@ -16,7 +19,7 @@ npm install
 
 truffle deploy
 
-
+-------------------------------
 Fonctionnalitées:
 (Fork Uniswap)
 - FORK FACTORY, FORK SWAPPAIR, SWAPROUTER, fUSDC, fUSDT et fDAI
@@ -29,7 +32,7 @@ Fonctionnalitées:
 - FORK MASTERCHEF
 - REWARDS USDC/WETH (30%), fUSDT/WETH (20%) et fDAI/WETH (50%)
 
-
+-------------------------------
 Test:
 
 truffle test
