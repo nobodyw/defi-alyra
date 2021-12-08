@@ -8,6 +8,7 @@ const Migrator = artifacts.require("UniswapV2Migrator");
 const Factory = artifacts.require("DGMWSwapFactory");
 const library = artifacts.require("UniswapV2Library");
 const Web3 = require('web3');
+const Pair = artifacts.require("DGMWSwapPair");
 const {BN} = require('@openzeppelin/test-helpers');
 
 

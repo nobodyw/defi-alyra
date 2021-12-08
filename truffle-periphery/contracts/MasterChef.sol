@@ -97,6 +97,10 @@ contract MasterChef is Ownable {
         startBlock = _startBlock;
     }
 
+//    function setToken(DGMWToken _DGMW) public{
+//        DGMW = _DGMW;
+//    }
+
     function poolLength() external view returns (uint256) {
         return poolInfo.length;
     }
