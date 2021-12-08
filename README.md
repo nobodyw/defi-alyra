@@ -1,3 +1,7 @@
+CONTRIBUTORS
+https://github.com/nobodyw (Michael W.)
+https://github.com/Damwazo (Damien G.)
+
 Installation 
 
 Modifier le truffle-cli: port
